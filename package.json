@@ -48,6 +48,10 @@
     "eslint-plugin-import": "^2.7.0",
     "husky": "^0.14.3",
     "mocha": "^3.5.0",
+    "node-fetch": "^1.7.3",
+    "sinon": "^3.2.1",
+    "sinon-chai": "^2.13.0",
+    "sinon-stub-promise": "^4.0.0",
     "webpack": "^3.0.0-rc.2"
   }
 }
